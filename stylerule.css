@@ -1,0 +1,53 @@
+#SIS_header{
+	background-color:black;
+	height:80px;
+	width:100%;
+}
+
+#container{
+	background-color:black;
+	height:150px;
+	width:100%;
+}
+
+#Hader3{
+	background-color:black;
+	height:400px;
+	width:100%;
+}
+
+#Hader4{
+	background-color:black;
+	height:400px;
+	width:100%;
+}
+#background {
+							
+				border:3px solid black;
+				background-image: url(lap01.jpg);
+				padding:50px;
+				height:30vh;
+			
+							}
+							
+#copywrite{
+	border:3px solid yellow;
+	background-color:black;
+
+	padding:20px;
+}
+
+
+#textbox{
+	width:auto;
+	height:200px;
+	opacity:0.8;
+	background-color:black;
+	padding:10px;
+	text-align:justify;
+
+}
+
+.text{
+		color:white;
+		}
